@@ -1,0 +1,10 @@
+#TR1,Trà chanh dây,L,19000
+#CF1,Cà phê sữa,M,15000
+#TS3,Trà sữa dâu,L,25000
+#TR2,Trà đào hồng,L,19000
+#TR3,Trà ổi hồng,L,19000
+#CF2,Cà phê muối,M,15000
+#TS1,Trà sữa nho,L,25000
+#TR4,Trà hoa cúc,L,19000
+#TS3,Trà sữa matcha,L,25000
+#TR5,Trà cam sả,L,19000
